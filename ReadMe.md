@@ -1,8 +1,12 @@
-This repository contains the files for the INDIE NEWS AND POLITICAL COMMENTARY v BIG TECH class-action defamation lawsuit. All documents are stored in chronological order in the documents folder. All evidence is in the Evidence folder. Example legal documents and templates are in the Examples folder.
+This repository contains the files for the INDIE NEWS AND POLITICAL COMMENTARY v BIG TECH class-action defamation lawsuit. You can find the Petition in the `./Petition` folder.
 
-All files related to the Fundraiser are in the Fundraiser folder. You can find and donate to our fundraiser on GiveSendGo at
+All files related to the Fundraiser are in the Website folder. You can find and donate to our fundraiser on GiveSendGo at
 
 <https://givesendgo.com/indienewsandpoliticalcommentary>
+
+## Contributing
+
+We are in need of volunteers to help with the petition and lawsuit. Please read the [Contributing Guide](https://github.com/FreedomGovernment/INPCVsBigTech/blob/master/Contributing.md)
 
 ## License
 
