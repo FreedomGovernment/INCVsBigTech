@@ -1,3 +1,5 @@
+# Contributing
+
 This repository contains the files for the INDIE NEWS AND POLITICAL COMMENTARY v BIG TECH class-action defamation lawsuit. You can find the Petition in the `./Petition` folder.
 
 All files related to the Fundraiser are in the Website folder. You can find and donate to our fundraiser on GiveSendGo at
