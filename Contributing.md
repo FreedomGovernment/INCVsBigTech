@@ -7,4 +7,3 @@ You will need to contribute either via GitHub, or by sending information to the 
 You will need to sign up for a GitHub account and [learn how to use Git](https://git-scm.com/docs/gittutorial). You can contribute information using comments on GitHub issue tickets. General comments go in the tickets `Seeking volunteers; General Chat`. We don't have a Discord Server, but they heavily censor so why would you want to ever use them. GitHub is run by Microsoft, but they're not on our list of Defendants.
 
 If you live in the Silicon Valley area and would like to serve our lawsuit for us that would help us out a lot. I will pay for gas.
-
