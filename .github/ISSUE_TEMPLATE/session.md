@@ -1,12 +1,14 @@
 ---
 name: Session
 about: A mission-driven development mission with a problem-solution analysis
-title: 'Session. @2022-'
+title: 'Session. @2023-'
 labels: ''
-assignees: 'CookingWithCale'
-
+assignees: 'AStarCale'
 ---
+#
+
+1. AStarCale/AStarCale#9
 
 ## License
 
-Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/FreedomGovernment>.
+Copyright [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
